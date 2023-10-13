@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About me
 I'm a **Full Stack Developper** student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FyMHk5b3liZWV3MGk3eTA2cG0zNmZkM2YybDV2NnF1Ym42ampkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJUhSOR9agCiXPFBqu/giphy.gif" alt="wave gif" width="30"> in Québec
-- :telescope: I’m studying Software Engineering at the Cégep Garneau in Québec and learning frontend and backend for building web applications.
+- :telescope: I’m studying Software Engineering at Cégep Garneau in Québec and learning frontend and backend for building web applications.
 - :seedling: Currently following the <a href="https://www.theodinproject.com/">Odin Project</a> to improve my skills and knowledge.
 - :zap: In my free time, I solve problems on <a href="https://exercism.org/">Exercism</a> and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:thibault.castelli@pm.me)
