@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About me
-I'm a **Full Stack Developper** from France, living in Québec, and moving in to Rotterdan in June 2025! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FyMHk5b3liZWV3MGk3eTA2cG0zNmZkM2YybDV2NnF1Ym42ampkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJUhSOR9agCiXPFBqu/giphy.gif" alt="wave gif" width="30">
+I'm a **Full Stack Developper** from France, living in Eindhoven (Netherlands)<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FyMHk5b3liZWV3MGk3eTA2cG0zNmZkM2YybDV2NnF1Ym42ampkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJUhSOR9agCiXPFBqu/giphy.gif" alt="wave gif" width="30">
 - :telescope: I strive to develop simple and intuitive solutions that address complex problems.
 - :seedling: I thrive in multidisciplinary teams, learning from the expertise of my colleagues.I am an attentive listener and willing to contribute to ideas and projects.
 - :zap: I embrace change and value constructive criticism as a means to continuouslyenhance my skills and performance.
